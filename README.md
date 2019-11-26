@@ -1,2 +1,2 @@
-# Three Rooms Hotel Reservation JS
+# Hotel's Rooms Reservation JS
 # Written by Hussam Soufi
